@@ -1,0 +1,651 @@
+@media all and (max-width: 767px) {
+  .header-link{
+    li{
+      display:inline-block;
+    }
+  }
+  .landingmain{
+    height:auto !important;
+    overflow:auto !important;
+    position:fixed;
+  }
+  .leaderboardlist{
+      width:100%;
+      overflow:scroll;
+    table{
+      width:700px;
+      tr{
+        th,td{
+          width:25%;
+          padding:10px 20px;
+          &:first-child, &:last-child{
+            width:12%;
+          }
+        }
+      }
+      thead{
+        tr{
+          th{
+            padding:10px 20px;
+          }
+        }
+      }
+    }
+  }
+  .namelist{
+    margin-bottom:100px;
+    table{
+      width:100%;
+    }
+  }
+  .landingmain.paddingTop{
+    padding-bottom:20px;
+  }
+  .jointelegram_inactive{
+    top:30px !important;
+  }
+  .invitationcode {
+    padding:10px 20px !important;
+    margin: 10px 0;
+    min-height: 220px !important;
+    .invitationtitle{
+      img{
+        width:30px !important;
+      }
+      .invsubtitle{
+        span{
+          font-size:14px !important;
+        }
+        p{
+          font-size:12px !important;
+        }
+      }
+      i{
+        top:25px !important;
+        right:10px;
+      }
+    }
+    .invitationinput{
+      input[type=tel]{
+        margin-top:10px;
+        //min-width:26px !important;
+        min-width:8% !important;
+        min-height:38px !important;
+        margin-bottom:15px;
+        padding:0;
+      }
+      input[type=email]{
+        margin-top:10px;
+      }
+      input[type=button]{
+          margin:15px 0 5px;
+      }
+    }
+    .invbutton{
+      width:auto !important;
+      a{
+        padding: 6px 20px !important;
+      }
+    }
+  }
+  .conwallet{
+      min-height:180px;
+      bottom: 200px !important;
+  }
+  .pointdropdown{
+    .pointdropdownin{
+        top:10px;
+    }
+    .pointdropdownlist{
+        margin:5px 0px 0 0;
+    }
+  }
+  .cardleftpanel{
+    .cardleftdetails{
+        h1{
+          font-size:28px !important;
+          line-height:42px !important;
+          padding-top:15%;
+        }
+        span{
+          font-size:28px !important;
+          line-height:30px !important;
+          padding:10px 5px !important;
+          margin-left:0 !important;
+          &::before{
+            display:none !important;
+          }
+        }
+        p{
+            padding-bottom:20%;
+        }
+      }
+  }
+  .connectwalletbtn{
+    // padding:5px 15px 10px !important;
+    // margin-top:5px;
+      padding:8px 10px !important;
+      width:100%;
+      text-align: center;
+      img{
+        width:25px;
+        margin-right: 2px;
+      }
+  } 
+  .header-link{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.50);
+    padding: 10px 10px ;
+  }
+  .headertoken{
+    margin:15px 0;
+    border-radius: 0px;
+    border:none;
+    box-shadow: none;
+    background:none;
+    backdrop-filter:none;
+  }
+  .trim-cls{
+    font-size: 12px;
+  }
+  .becomebottom{
+    margin-top:10px;
+    .becometitle{
+      font-size: 17px !important;
+      padding-bottom:20px;
+    }
+  }
+  .progresstitle {
+    label{
+      font-size:14px !important;
+      margin-top:7px !important;
+    }
+    .progress{
+      margin:5px 0 5px !important;
+    }
+  }
+  .logo-cls{
+    max-width: 140px;
+  }
+  .navbar-brand{
+    //margin-bottom:10px;
+    display:inline-block;
+  }
+  .navbar > .container-fluid{
+    //margin-bottom: 10px;
+  }
+  .usermenu{
+    margin-bottom:60px;
+    li{
+      width:32%;
+      &:nth-child(2){
+        &::before{
+            content: "";
+            height: 30px;
+            border-left: 1px solid;
+            position: absolute;
+            margin-left: -20px;
+            margin-top: 20px;
+        }
+      }
+      &:nth-child(3){
+        &::before{
+            content: "";
+            height: 30px;
+            border-left: 1px solid;
+            position: absolute;
+            margin-left: -20px;
+            margin-top: 20px;
+        }
+      }
+    }
+  }
+  .headermain{
+    //padding-bottom:10px;
+      .header-link{
+        padding:10px 0px;
+        li{
+          padding-top:5px;
+          padding-bottom:5px;
+        }
+      }
+      .navbar-toggler{
+        width:40px;
+        height:40px;
+        border-radius:50%;
+        span{
+          left: -5px;
+          position: relative;
+        }
+      }
+  }
+  .referralscard {
+    padding: 10px 10px 30px 10px !important;
+    .activeinactive{
+      bottom:15px !important;
+      span{
+        margin-bottom: 0px !important;
+        font-size: 13px !important;
+      }
+    }
+  }
+  .cardslidbox{
+    padding:20px 10px !important;
+    //height:75% !important;
+    //height:auto !important;
+      .cardleftpanel{
+          padding:20px 10px;
+      }
+      .downarrow{
+        padding:15px 0px !important;
+      }
+  }
+  .refinputcode{
+    input[type=text]{
+      width:60%;
+    }
+    button{
+      padding:9px 10px !important;
+    }
+  }
+  .usercardslidbox{
+    //height:100% !important;
+    height:680px !important;
+    .progresstitle{
+      label, .progressamout{
+        font-size:10px !important;
+      }
+    }
+    .invitationcode{
+      //min-height:190px !important;
+      .invsubtitle{
+        padding-top:0;
+      }
+    }
+  }
+  .invitationuser{
+    padding-top:10px !important;
+  }
+  .signupprocess{
+    padding-top:0px !important;
+    padding-bottom:50px;
+  }
+  .planpopup{
+    max-width:100% !important;
+    .modal-content{
+      .planpopupbox{
+        .lockingtitle{
+          width:30% !important;
+        }
+        .amounttitle{
+          .amountbox{
+            margin-bottom:0px;
+          }
+        }
+        .mulbalance{
+          .amountbox{
+            padding:10px 0px;
+            text-align:center;
+            span{
+              width:100%;
+              text-align:center !important;
+            }
+          }
+        }
+      }
+      .confirmbtn{
+        width:100% !important;
+      }
+    }
+  }
+  .referralamount{
+    padding:5px !important;
+  }
+  .potentialtitle{
+    margin-left:30px !important;
+    margin-right:30px !important;
+    padding:5px 10px !important;
+  }
+  .dayslink{
+    left:0;
+  }
+  .dashtitle{
+    font-size: 16px !important;
+  }
+  .extendtokan, .rewardtokensbg{
+    margin-bottom:20px;
+  }
+}
+
+// waitlist dashboard start
+@media all and (max-width: 767px) {
+  .zeebuadd{
+    margin-bottom:30px;
+  }
+  .dashboardwaitlistbg{
+    background: linear-gradient(127deg, rgba(255, 255, 255, 0.2) 2.54%, rgba(153, 153, 153, 0.2) 97.47%);
+    box-shadow: 0px 3px 4px 0px rgba(41, 127, 234, 0.2);
+    border-radius:20px;
+    .dashboardwaitlist{
+      padding:15px 20px 0;
+    }
+  }
+  .cardreward {
+    .cardtotalreward{
+      .cardtotalbg{
+        margin: 30px 0;
+      }
+    }
+    .plancard{
+      padding: 10px 20px !important;
+      span{
+        padding-top: 5px !important;
+        padding-bottom: 5px;
+      }
+    }
+  }
+  .calfrmbox{
+    margin-top: 30px;
+  }
+  .calbtn{
+    position: unset;
+    width:100%;
+  }
+  .cardrate{
+      .carddetails{
+        padding-top:20px;
+        text-align:center;
+        p{
+          padding-right: 0px;
+        }
+      }
+  }
+  .cardProto{
+    img{
+      max-width:100px;
+    }
+    .carddetails{
+      padding-top:10px;
+      text-align:center;
+      p{
+        padding-right: 0px;
+      }
+    }
+}
+  .dashtitle{
+    font-size: 16px !important;
+  }
+  .stakfootermain{
+    .cmslinkfooter{
+      text-align: center;
+    }
+    .copyright {
+      text-align: center;
+    }
+    .footersocialicon{
+      text-align: center !important;
+    }
+  }
+  .mar-20{
+    margin-top:20px;
+  }
+}
+// waitlist dashboard end
+
+
+// Moving box referral start
+@media all and (max-width: 767px) {
+  .cardslidbox{
+    height:80% !important;
+  }
+  .emailcode {
+    top:-260px !important;
+    .downarrow{
+      position: relative;
+      top:50px;
+    }
+  }
+  .activesignwallet{
+    top:-440px !important;
+  }
+  .invitationuser {
+    top:40px;
+    position:relative;
+  }
+}
+// Moving box referral end
+
+
+
+
+
+
+@media only screen and (orientation: portrait) {
+  .becomebottom{
+    a{
+      min-width:80px !important;
+    }
+  }
+}
+
+
+@media only screen and (orientation: landscape) {
+  .becomebottom{
+    a{
+      min-width:120px !important;
+    }
+  }
+}
+
+
+@media only screen and (max-height: 932px) and (orientation: landscape){
+
+}
+
+
+@media only screen and (min-width: 820px) and (max-width: 1180px)  {
+  .referralscard {
+    .refegraph {
+      margin:10px auto 50px !important;
+    }
+  }
+}
+
+
+/* ----------- iPad Pro ----------- */
+/* Portrait and Landscape */
+@media only screen
+  and (min-width: 1024px)
+  and (max-height: 1366px)
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .cardleftpanel{
+      .cardleftdetails{
+        // h1{
+        //   font-size:30px !important;
+        //   line-height:42px !important;
+        //   padding-top:15%;
+        // }
+        // p{
+        //   padding-bottom:20%;
+        // }
+      }
+    }
+    .userReferralstitle{
+      font-size:18px !important;
+    }
+    .proviewtask{
+      font-size:12px !important;
+      padding-top:5px;
+      padding-bottom:8px;
+    }
+    .refinputcode{
+      button{
+        margin-top:12px;
+      }
+    }
+    .referralscard{
+      .refcodeinactive{
+        margin-top:0px;
+      }
+      .refegraph{
+        text-align:center;
+        margin:20px auto 0;
+        // width:60%;
+        // margin:50px auto 0;
+      }
+      .referrals{
+        span{
+          font-size:20px !important;
+        }
+        p{
+          font-size:12px;
+        }
+      }
+    }
+}
+
+
+/* Portrait */
+@media only screen
+  and (min-width: 1024px)
+  and (max-height: 1366px)
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .referralscard{
+        padding:15px 20px 25px !important;
+      .refcodeinactive{
+        padding:0px;
+      }
+      .activeinactive{
+        // top:50px;
+        right:10px;
+        span{
+          font-size:10px !important;
+          padding-right:10px;
+          width: auto !important;
+          &:first-child, &:last-child{
+            &::before{
+              width:20px !important;
+              height:20px !important;
+            }
+          }
+        }
+      }
+    }
+  
+    .usercardslidbox{
+      //margin-top:26px;
+      margin-top:0px;
+      height: 570px !important;
+    }
+}
+/* Landscape */
+@media only screen
+  and (min-width: 1024px)
+  and (max-height: 1366px)
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .landingmain {
+      height: auto;
+    }
+    .invitationcode{
+      .invitationtitle{
+        .invsubtitle{
+          padding-right:25px;
+          p{
+            font-size:10px !important;
+          }
+        }
+      }
+    }
+}
+
+/* ----------- iPad mini, Air ----------- */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1){
+    // .landingmain{
+    //   height:100% !important;
+    // }
+}
+
+@media only screen 
+  and (min-device-width: 820px) 
+  and (max-device-width:1180px) 
+  and (-webkit-min-device-pixel-ratio: 1){
+    .landingmain{
+      height:100% !important;
+    }
+    .cardleftpanel {
+      padding: 0% 15px;
+      .cardleftdetails{
+        height: 100%;
+        padding:5% 10px !important;
+        h1{
+          font-size: 24px !important;
+          line-height: 30px !important;
+          padding-top: 6%;  
+        }
+      }
+   }
+}
+
+@media only screen 
+  and (min-device-width:768px) 
+  and (max-device-width:1024px) 
+  and (-webkit-min-device-pixel-ratio: 1){
+    .landingmain{
+      height:100% !important;
+    }
+    .cardleftpanel {
+      padding: 0% 15px;
+      .cardleftdetails{
+        height: 100%;
+        padding:5% 10px !important;
+        h1{
+          font-size: 24px !important;
+          line-height: 30px !important;
+          padding-top:20%;  
+        }
+      }
+   }
+   .becomebottom{
+    margin-top:20px;
+   }
+}
+
+
+@media only screen 
+   and (max-width : 720px) 
+   and (max-height : 946px) {
+    .landingmain{
+      height: 100% !important;
+    }
+}
+
+
+@media screen and (min-width:820px) and (max-width:1180px) {
+  .landingmain{
+    height:auto !important;
+    overflow:auto !important;
+  }
+  .usercardslidbox{
+    height:500px;
+    margin-bottom:20px;
+    .invitationcode{
+      .invsubtitle{
+        padding-right:20px;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+  .invitationcode{
+    .invitationinput{
+      input[type=tel]{
+        min-width:30px !important;
+      }
+    }
+  }
+}

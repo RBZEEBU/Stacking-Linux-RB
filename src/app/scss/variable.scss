@@ -1,0 +1,33 @@
+/* @font-face {
+    font-family: 'soraregular';
+    src: url('../fonts/sora-regular-webfont.woff2') format('woff2'),
+        url('../fonts/sora-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+} */
+
+$bodyfont: 'soraregular',
+    sans-serif;
+$headingfont: 'soraregular',
+    sans-serif;
+
+
+/* @font-face {
+    font-family: 'Sora';
+    src: url('../fonts/Sora-Light.woff2') format('woff2'),
+        url('../fonts/Sora-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+} */
+
+/*Theme Colors*/
+$bodycolor: #ffffff;
+$headingtext: #3e4555;
+$bodytext: #8d97ad;
+$themecolor: #316ce8;
+$themecolor-light: #26c6da;
+$themecolor-dark: #028ee1;
+$black: #000;
+$white: #fff;

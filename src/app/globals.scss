@@ -1,0 +1,64 @@
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.block-avatar {
+  border-radius: 16px;
+}
+
+/* .landingmain { */
+.landingmain {
+  // background: url(/public/background.jpg) no-repeat top;
+  // background-size: cover;
+  // height: 100vh;
+  // overflow: hidden;
+  // width: 100%;
+}
+
+.margin-top60 {
+  margin-top: 90px;
+}
+
+.lockedlinkbox a {
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.20);
+  background: linear-gradient(127deg, rgba(255, 255, 255, 0.10) 2.54%, rgba(153, 153, 153, 0.10) 97.47%);
+  backdrop-filter: blur(60px);
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  width: 100%;
+  padding: 10px 10px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.lockedlinkbox a:hover {
+  background: linear-gradient(127deg, rgba(20, 42, 168, 0.50) 2.54%, rgba(255, 137, 91, 0.50) 97.47%);
+}
+
+.lockedlinkbox a:last-child {
+  margin-bottom: 0;
+}
+
+.lockedlinkbox a span {
+  padding-left: 10px;
+  margin-top: 1px;
+}
+
+.lockedlinkbox a .image-right {
+  position: absolute;
+  right: 10px;
+  padding: 0px 5px;
+}
+
+@import "./scss/variable.scss";
+@import "./scss/dashboard.scss";
+@import "./scss/common.scss";
+@import "./scss/landing.scss";
+@import "./scss/responsive.scss";
+@import "./scss/dist/css/bootstrap.css";
+// @import url("./scss/staking.scss");

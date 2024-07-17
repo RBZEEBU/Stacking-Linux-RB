@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-06-29 14:04-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/NotificationsMenu.tsx:113
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/WalletModal.tsx:323
+msgid "{0} Balance"
+msgstr "{0} Balance"
+
+#: src/components/AddExtendStake.tsx:283
+#: src/components/NewStake.tsx:249
+#: src/components/StakeInfo.tsx:164
+msgid "{0} days"
+msgstr "{0} days"
+
+#: src/components/StakeInfo.tsx:144
+msgid "{0} locked"
+msgstr "{0} locked"
+
+#: src/components/AdminRewards.tsx:592
+msgid "{0} rewards will be added, each having {1} {2}"
+msgstr "{0} rewards will be added, each having {1} {2}"
+
+#: src/components/AddExtendStake.tsx:267
+#: src/components/NewStake.tsx:233
+msgid "{tokenSymbol} locked"
+msgstr "{tokenSymbol} locked"
+
+#: src/components/AddExtendStake.tsx:319
+msgid "Add {tokenSymbol}"
+msgstr "Add {tokenSymbol}"
+
+#: src/components/AddExtendStake.tsx:217
+#: src/components/NewStake.tsx:183
+msgid "Add Details"
+msgstr "Add Details"
+
+#: src/components/PeriodSelector.tsx:50
+msgid "Add Duration"
+msgstr "Add Duration"
+
+#: src/components/Pool.tsx:311
+#: src/components/Pool.tsx:447
+msgid "Add Liquidity"
+msgstr "Add Liquidity"
+
+#: src/components/AdminRewards.tsx:433
+msgid "Add new token"
+msgstr "Add new token"
+
+#: src/app/[locale]/admin-rewards/page.tsx:9
+#: src/components/AdminRewards.tsx:635
+#: src/components/AppAppBar.tsx:138
+msgid "Add Rewards"
+msgstr "Add Rewards"
+
+#: src/components/NewStake.tsx:340
+#: src/components/Pool.tsx:320
+#: src/components/Pool.tsx:437
+#: src/components/Pool.tsx:475
+#: src/components/WalletModal.tsx:106
+msgid "Add Stake"
+msgstr "Add Stake"
+
+#: src/app/[locale]/stake/[id]/add/page.tsx:16
+msgid "Add Staking"
+msgstr "Add Staking"
+
+#: src/components/AddTokenModal.tsx:73
+msgid "Add Token"
+msgstr "Add Token"
+
+#: src/app/[locale]/stake/[id]/extend/page.tsx:16
+msgid "Add/Extend Staking"
+msgstr "Add/Extend Staking"
+
+#: src/components/AdminRewards.tsx:141
+msgid "Adding rewards"
+msgstr "Adding rewards"
+
+#: src/components/Pool.tsx:398
+msgid "Admin Account"
+msgstr "Admin Account"
+
+#: src/components/NotificationsSettings.tsx:34
+msgid "Alerts"
+msgstr "Alerts"
+
+#: src/components/NotificationsMenu.tsx:84
+msgid "All"
+msgstr "All"
+
+#: src/components/EarlyWithdraw.tsx:339
+msgid "Always visible"
+msgstr "Always visible"
+
+#: src/components/AdminRewards.tsx:530
+msgid "Amount"
+msgstr "Amount"
+
+#: src/components/AddExtendStake.tsx:309
+#: src/components/NewStake.tsx:330
+msgid "Approve"
+msgstr "Approve"
+
+#: src/components/AdminRewards.tsx:618
+msgid "Approve {0}"
+msgstr "Approve {0}"
+
+#: src/components/AddExtendStake.tsx:106
+#: src/components/NewStake.tsx:103
+msgid "Approving {formattedAmount} {tokenSymbol}"
+msgstr "Approving {formattedAmount} {tokenSymbol}"
+
+#: src/components/AddExtendStake.tsx:122
+#: src/components/NewStake.tsx:113
+#~ msgid "Approving {inputAmount} {tokenSymbol}"
+#~ msgstr "Approving {inputAmount} {tokenSymbol}"
+
+#: src/components/AdminRewards.tsx:314
+msgid "Approving tokens"
+msgstr "Approving tokens"
+
+#: src/components/Pool.tsx:196
+msgid "APR"
+msgstr "APR"
+
+#: src/components/Pool.tsx:244
+msgid "Available"
+msgstr "Available"
+
+#: src/components/ConnectWalletModal.tsx:203
+msgid "Available Wallet"
+msgstr "Available Wallet"
+
+#: src/components/TokenInput.tsx:95
+msgid "Balance: {0}"
+msgstr "Balance: {0}"
+
+#: src/components/AdminRewards.tsx:543
+msgid "Balance: {selectedTokenBalance} {0}"
+msgstr "Balance: {selectedTokenBalance} {0}"
+
+#: src/components/Pool.tsx:203
+msgid "Based in weekly ZBU rewards"
+msgstr "Based in weekly ZBU rewards"
+
+#: src/components/AddTokenModal.tsx:139
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/components/Pool.tsx:352
+msgid "Claim"
+msgstr "Claim"
+
+#: src/app/[locale]/stake/[id]/claim/page.tsx:16
+#: src/components/ClaimRewards.tsx:101
+#: src/components/ClaimRewards.tsx:196
+#: src/components/WalletModal.tsx:478
+msgid "Claim Rewards"
+msgstr "Claim Rewards"
+
+#: src/components/ClaimRewards.tsx:68
+#~ msgid "Claiming Rewards"
+#~ msgstr "Claiming Rewards"
+
+#: src/components/Modal.tsx:46
+#: src/components/SettingsModal.tsx:49
+#: src/components/WalletModal.tsx:191
+msgid "close"
+msgstr "close"
+
+#: src/components/ConnectWalletModal.tsx:394
+msgid "Coming Soon"
+msgstr "Coming Soon"
+
+#: src/components/AddTokenModal.tsx:146
+msgid "Confirm"
+msgstr "Confirm"
+
+#: src/components/ConnectWalletButton.tsx:29
+#: src/components/ConnectWalletModal.tsx:129
+#: src/components/Pool.tsx:456
+#: src/components/Pool.tsx:483
+msgid "Connect Wallet"
+msgstr "Connect Wallet"
+
+#: src/components/ConnectWalletModal.tsx:162
+msgid "Connect Your Wallet"
+msgstr "Connect Your Wallet"
+
+#: src/components/Pool.tsx:372
+msgid "Contract Address"
+msgstr "Contract Address"
+
+#: src/components/WalletModal.tsx:267
+msgid "Copied"
+msgstr "Copied"
+
+#: src/components/Footer.tsx:17
+msgid "Copyright © <0>Zeebu </0>{0}"
+msgstr "Copyright © <0>Zeebu </0>{0}"
+
+#: src/components/SettingsModal.tsx:60
+msgid "Dark mode"
+msgstr "Dark mode"
+
+#: src/components/AdminRewards.tsx:517
+msgid "Day"
+msgstr "Day"
+
+#: src/components/AddTokenModal.tsx:116
+msgid "Decimals: {0}"
+msgstr "Decimals: {0}"
+
+#: src/components/Pool.tsx:280
+msgid "Details"
+msgstr "Details"
+
+#: src/components/Wallet.tsx:77
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: src/components/WalletModal.tsx:438
+msgid "Disconnect Wallet"
+msgstr "Disconnect Wallet"
+
+#: src/components/AddExtendStake.tsx:280
+#: src/components/NewStake.tsx:246
+#: src/components/StakeInfo.tsx:158
+msgid "Duration"
+msgstr "Duration"
+
+#: src/app/[locale]/stake/[id]/withdraw/page.tsx:16
+#: src/components/EarlyWithdraw.tsx:382
+#: src/components/Pool.tsx:344
+msgid "Early Withdraw"
+msgstr "Early Withdraw"
+
+#: src/components/EarlyWithdraw.tsx:119
+msgid "Early Withdrawing {0} {tokenSymbol}"
+msgstr "Early Withdrawing {0} {tokenSymbol}"
+
+#: src/components/NotificationsMenu.tsx:252
+msgid "Empty"
+msgstr "Empty"
+
+#: src/components/LanguageSelect.tsx:17
+msgid "English"
+msgstr "English"
+
+#: src/components/AdminRewards.tsx:533
+msgid "Enter amount"
+msgstr "Enter amount"
+
+#: src/components/AddExtendStake.tsx:254
+#: src/components/NewStake.tsx:220
+#: src/components/StakeInfo.tsx:133
+msgid "Est. APY"
+msgstr "Est. APY"
+
+#: src/components/WalletModal.tsx:313
+msgid "Explore"
+msgstr "Explore"
+
+#: src/components/WalletModal.tsx:254
+#~ msgid "Explorer"
+#~ msgstr "Explorer"
+
+#: src/components/Pool.tsx:328
+#: src/components/WalletModal.tsx:107
+msgid "Extend"
+msgstr "Extend"
+
+#: src/components/AddExtendStake.tsx:327
+msgid "Extend Lock"
+msgstr "Extend Lock"
+
+#: src/components/AddExtendStake.tsx:182
+msgid "Extending staking period"
+msgstr "Extending staking period"
+
+#: src/components/NotificationsMenu.tsx:90
+#: src/components/NotificationsSettings.tsx:69
+msgid "Farm"
+msgstr "Farm"
+
+#: src/components/AdminRewards.tsx:503
+msgid "Frequency"
+msgstr "Frequency"
+
+#: src/components/NotificationsSettings.tsx:36
+msgid "Get notified when urgent action is required from your account"
+msgstr "Get notified when urgent action is required from your account"
+
+#: src/components/NotificationsMenu.tsx:67
+msgid "Get started with notifications from Zeebu. First authorize notifications by signing in your wallet"
+msgstr "Get started with notifications from Zeebu. First authorize notifications by signing in your wallet"
+
+#: src/components/Pool.tsx:280
+msgid "Hide"
+msgstr "Hide"
+
+#: src/components/AdminRewards.tsx:514
+msgid "Hour"
+msgstr "Hour"
+
+#: src/components/EarlyWithdraw.tsx:375
+msgid "I agree to pay the penalty"
+msgstr "I agree to pay the penalty"
+
+#: src/components/NotificationsMenu.tsx:183
+msgid "Important only"
+msgstr "Important only"
+
+#: src/components/Notifier.tsx:39
+msgid "In Progress"
+msgstr "In Progress"
+
+#: src/components/AddTokenModal.tsx:123
+msgid "Invalid address"
+msgstr "Invalid address"
+
+#: src/components/LanguageSelect.tsx:71
+#: src/components/Notifications.tsx:45
+msgid "Language"
+msgstr "Language"
+
+#: src/components/NotificationsMenu.tsx:85
+#: src/components/NotificationsSettings.tsx:27
+msgid "Liquidity"
+msgstr "Liquidity"
+
+#: src/components/AddTokenModal.tsx:104
+msgid "Load"
+msgstr "Load"
+
+#: src/components/NotificationsSettings.tsx:57
+#: src/components/NotificationsSettings.tsx:64
+#: src/components/NotificationsSettings.tsx:71
+#: src/components/NotificationsSettings.tsx:78
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+msgstr "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+
+#: src/components/NotificationsMenu.tsx:89
+#: src/components/NotificationsSettings.tsx:62
+msgid "Lottery"
+msgstr "Lottery"
+
+#: src/components/Pool.tsx:426
+msgid "LP {tokenSymbol}"
+msgstr "LP {tokenSymbol}"
+
+#: src/components/TokenInput.tsx:122
+msgid "Max"
+msgstr "Max"
+
+#: src/components/AppAppBar.tsx:166
+msgid "Menu button"
+msgstr "Menu button"
+
+#: src/components/AdminRewards.tsx:387
+msgid "Multiple"
+msgstr "Multiple"
+
+#: src/components/StakeInfo.tsx:109
+msgid "My {0}"
+msgstr "My {0}"
+
+#: src/components/ClaimRewards.tsx:184
+msgid "Next epoch"
+msgstr "Next epoch"
+
+#: src/components/Pool.tsx:260
+msgid "NEXT EPOCH"
+msgstr "NEXT EPOCH"
+
+#: src/components/NotificationsMenu.tsx:255
+msgid "No new notifications at the moment"
+msgstr "No new notifications at the moment"
+
+#: src/components/WalletModal.tsx:529
+msgid "No recent transactions"
+msgstr "No recent transactions"
+
+#: src/components/ClaimRewards.tsx:171
+msgid "No rewards available to claim at the moment."
+msgstr "No rewards available to claim at the moment."
+
+#: src/components/AdminRewards.tsx:552
+msgid "Not enough balance"
+msgstr "Not enough balance"
+
+#: src/components/NotificationsMenu.tsx:64
+msgid "Notifications From Zeebu"
+msgstr "Notifications From Zeebu"
+
+#: src/components/EarlyWithdraw.tsx:354
+msgid "Now"
+msgstr "Now"
+
+#: src/components/EarlyWithdraw.tsx:194
+msgid "Overview"
+msgstr "Overview"
+
+#: src/components/EarlyWithdraw.tsx:231
+#: src/components/EarlyWithdraw.tsx:291
+msgid "Penalty"
+msgstr "Penalty"
+
+#: src/components/EarlyWithdraw.tsx:248
+#: src/components/EarlyWithdraw.tsx:308
+msgid "Penalty %"
+msgstr "Penalty %"
+
+#: src/components/AdminRewards.tsx:393
+msgid "Pool"
+msgstr "Pool"
+
+#: src/components/NotificationsMenu.tsx:86
+#: src/components/NotificationsSettings.tsx:41
+msgid "Prediction"
+msgstr "Prediction"
+
+#: src/components/AdminRewards.tsx:627
+msgid "Preview Rewards"
+msgstr "Preview Rewards"
+
+#: src/components/NotificationsSettings.tsx:48
+msgid "Price Updates"
+msgstr "Price Updates"
+
+#: src/components/NotificationsMenu.tsx:87
+msgid "Prices"
+msgstr "Prices"
+
+#: src/components/Footer.tsx:47
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: src/components/ActionButton.tsx:40
+msgid "Processing"
+msgstr "Processing"
+
+#: src/components/NotificationsMenu.tsx:88
+#: src/components/NotificationsSettings.tsx:55
+msgid "Promotion"
+msgstr "Promotion"
+
+#: src/components/NotificationsSettings.tsx:43
+msgid "Receive notifications about upcoming zeebu predictions"
+msgstr "Receive notifications about upcoming zeebu predictions"
+
+#: src/components/NotificationsSettings.tsx:50
+msgid "Receive notifications when popular cryptos have sudden price movements"
+msgstr "Receive notifications when popular cryptos have sudden price movements"
+
+#: src/components/NotificationsSettings.tsx:29
+msgid "Receive notifications when your V3 LP positions goes out of range"
+msgstr "Receive notifications when your V3 LP positions goes out of range"
+
+#: src/components/Wallet.tsx:70
+#: src/components/WalletModal.tsx:456
+msgid "Recent transactions"
+msgstr "Recent transactions"
+
+#: src/components/AdminRewards.tsx:589
+msgid "Reward Distribution Overview"
+msgstr "Reward Distribution Overview"
+
+#: src/components/AdminRewards.tsx:410
+msgid "Reward Token"
+msgstr "Reward Token"
+
+#: src/components/ClaimRewards.tsx:126
+msgid "Reward Tokens"
+msgstr "Reward Tokens"
+
+#: src/components/AdminRewards.tsx:370
+msgid "Reward Type"
+msgstr "Reward Type"
+
+#: src/components/NotificationsMenu.tsx:91
+#: src/components/NotificationsSettings.tsx:76
+msgid "Rewards"
+msgstr "Rewards"
+
+#: src/components/AdminRewards.tsx:511
+msgid "Select frequency"
+msgstr "Select frequency"
+
+#: src/components/AdminRewards.tsx:399
+msgid "Select Pool"
+msgstr "Select Pool"
+
+#: src/components/AdminRewards.tsx:417
+msgid "Select Reward Token"
+msgstr "Select Reward Token"
+
+#: src/components/AppAppBar.tsx:151
+#: src/components/SettingsModal.tsx:45
+msgid "Settings"
+msgstr "Settings"
+
+#: src/components/SettingsModal.tsx:66
+msgid "Show testnet"
+msgstr "Show testnet"
+
+#: src/components/EarlyWithdraw.tsx:280
+msgid "Simulate"
+msgstr "Simulate"
+
+#: src/components/AdminRewards.tsx:382
+msgid "Single"
+msgstr "Single"
+
+#: src/components/AdminRewards.tsx:570
+msgid "Some rewards are set in the past. This means the reward will be instantly claimable. Please set a future date if you want to delay the claimability. Also, you can't add past rewards if the total supply was 0 at that time."
+msgstr "Some rewards are set in the past. This means the reward will be instantly claimable. Please set a future date if you want to delay the claimability. Also, you can't add past rewards if the total supply was 0 at that time."
+
+#: src/components/LanguageSelect.tsx:18
+msgid "Spanish"
+msgstr "Spanish"
+
+#: src/components/AppAppBar.tsx:132
+#: src/components/AppAppBar.tsx:196
+#: src/components/EarlyWithdraw.tsx:218
+#: src/components/WalletModal.tsx:109
+msgid "Stake"
+msgstr "Stake"
+
+#: src/components/Pool.tsx:465
+msgid "Stake {tokenSymbol}"
+msgstr "Stake {tokenSymbol}"
+
+#: src/components/EarlyWithdraw.tsx:265
+#: src/components/EarlyWithdraw.tsx:325
+msgid "Stake after penalty"
+msgstr "Stake after penalty"
+
+#: src/components/AddExtendStake.tsx:138
+#: src/components/NewStake.tsx:135
+msgid "Staking {formattedAmount} {tokenSymbol}"
+msgstr "Staking {formattedAmount} {tokenSymbol}"
+
+#: src/components/AddExtendStake.tsx:152
+#: src/components/NewStake.tsx:143
+#~ msgid "Staking {inputAmount} {tokenSymbol}"
+#~ msgstr "Staking {inputAmount} {tokenSymbol}"
+
+#: src/components/AddExtendStake.tsx:188
+msgid "Staking period successfully extended"
+msgstr "Staking period successfully extended"
+
+#: src/components/ConnectWalletModal.tsx:165
+msgid "Start by connecting with one of the wallet from the given options. Be sure to store your private keys or seed phrase securely. Never share them with anyone."
+msgstr "Start by connecting with one of the wallet from the given options. Be sure to store your private keys or seed phrase securely. Never share them with anyone."
+
+#: src/components/AdminRewards.tsx:147
+msgid "Successfully added rewards"
+msgstr "Successfully added rewards"
+
+#: src/components/AddExtendStake.tsx:112
+#: src/components/NewStake.tsx:109
+msgid "Successfully approved {formattedAmount} {tokenSymbol}"
+msgstr "Successfully approved {formattedAmount} {tokenSymbol}"
+
+#: src/components/AddExtendStake.tsx:128
+#: src/components/NewStake.tsx:119
+#~ msgid "Successfully approved {inputAmount} {tokenSymbol}"
+#~ msgstr "Successfully approved {inputAmount} {tokenSymbol}"
+
+#: src/components/AddExtendStake.tsx:131
+#: src/components/NewStake.tsx:128
+msgid "Successfully staked {formattedAmount} {tokenSymbol}"
+msgstr "Successfully staked {formattedAmount} {tokenSymbol}"
+
+#: src/components/AddExtendStake.tsx:145
+#: src/components/NewStake.tsx:136
+#~ msgid "Successfully staked {inputAmount} {tokenSymbol}"
+#~ msgstr "Successfully staked {inputAmount} {tokenSymbol}"
+
+#: src/components/AddExtendStake.tsx:243
+#: src/components/NewStake.tsx:209
+msgid "Summary"
+msgstr "Summary"
+
+#: src/components/AddTokenModal.tsx:113
+msgid "Symbol: {0}"
+msgstr "Symbol: {0}"
+
+#: src/components/Footer.tsx:53
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+#: src/components/AdminRewards.tsx:558
+msgid "The reward date is set in the past. This means the reward will be instantly claimable. Please set a future date if you want to delay the claimability."
+msgstr "The reward date is set in the past. This means the reward will be instantly claimable. Please set a future date if you want to delay the claimability."
+
+#: src/components/AdminRewards.tsx:156
+msgid "There was an error adding the rewards"
+msgstr "There was an error adding the rewards"
+
+#: src/components/AdminRewards.tsx:159
+msgid "There was an error adding the rewards. You can't add past rewards if the total supply was 0"
+msgstr "There was an error adding the rewards. You can't add past rewards if the total supply was 0"
+
+#: src/components/AddExtendStake.tsx:120
+#: src/components/AdminRewards.tsx:326
+#: src/components/NewStake.tsx:117
+msgid "There was an error approving the tokens"
+msgstr "There was an error approving the tokens"
+
+#: src/components/ClaimRewards.tsx:78
+msgid "There was an error claiming the rewards"
+msgstr "There was an error claiming the rewards"
+
+#: src/components/AddExtendStake.tsx:195
+msgid "There was an error extending the period"
+msgstr "There was an error extending the period"
+
+#: src/components/AddExtendStake.tsx:144
+#: src/components/NewStake.tsx:141
+msgid "There was an error staking the tokens"
+msgstr "There was an error staking the tokens"
+
+#: src/components/EarlyWithdraw.tsx:127
+#: src/components/Pool.tsx:120
+msgid "There was an error withdrawing the tokens"
+msgstr "There was an error withdrawing the tokens"
+
+#: src/components/AddTokenModal.tsx:95
+msgid "Token Address"
+msgstr "Token Address"
+
+#: src/components/AddTokenModal.tsx:129
+msgid "Token already exists"
+msgstr "Token already exists"
+
+#: src/components/AddTokenModal.tsx:110
+msgid "Token Name: {0}"
+msgstr "Token Name: {0}"
+
+#: src/components/Pool.tsx:215
+msgid "Total Staked"
+msgstr "Total Staked"
+
+#: src/components/ClaimRewards.tsx:105
+msgid "Transaction for claim rewards has been submitted successfully"
+msgstr "Transaction for claim rewards has been submitted successfully"
+
+#: src/components/ClaimRewards.tsx:104
+msgid "Transaction Submitted"
+msgstr "Transaction Submitted"
+
+#: src/components/WalletModal.tsx:217
+msgid "Transactions"
+msgstr "Transactions"
+
+#: src/components/WalletModal.tsx:476
+#: src/components/WalletModal.tsx:476
+#: src/components/WalletModal.tsx:479
+msgid "Unknown"
+msgstr "Unknown"
+
+#: src/components/EarlyWithdraw.tsx:357
+msgid "Unlock date"
+msgstr "Unlock date"
+
+#: src/components/AddExtendStake.tsx:294
+#: src/components/NewStake.tsx:260
+#: src/components/StakeInfo.tsx:178
+msgid "Unlock on"
+msgstr "Unlock on"
+
+#: src/components/StakeInfo.tsx:95
+#: src/components/StakeInfo.tsx:183
+msgid "Unlocked"
+msgstr "Unlocked"
+
+#: src/components/EarlyWithdraw.tsx:205
+msgid "Unlocks"
+msgstr "Unlocks"
+
+#: src/components/NotificationsSettings.tsx:129
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+#: src/components/AdminRewards.tsx:440
+msgid "UTC Date"
+msgstr "UTC Date"
+
+#: src/components/AdminRewards.tsx:458
+msgid "UTC Date From"
+msgstr "UTC Date From"
+
+#: src/components/AdminRewards.tsx:479
+msgid "UTC Date To"
+msgstr "UTC Date To"
+
+#: src/components/WalletModal.tsx:373
+msgid "VeZBU Balance"
+msgstr "VeZBU Balance"
+
+#: src/components/WalletModal.tsx:401
+msgid "VeZBU-USDT Balance"
+msgstr "VeZBU-USDT Balance"
+
+#: src/components/Wallet.tsx:64
+#: src/components/WalletModal.tsx:210
+msgid "Wallet"
+msgstr "Wallet"
+
+#: src/components/AdminRewards.tsx:520
+msgid "Week"
+msgstr "Week"
+
+#: src/components/PeriodSelector.tsx:97
+msgid "Weeks"
+msgstr "Weeks"
+
+#: src/components/ConnectWalletModal.tsx:181
+msgid "What Is A Wallet?"
+msgstr "What Is A Wallet?"
+
+#: src/components/Pool.tsx:336
+#: src/components/WalletModal.tsx:108
+msgid "Withdraw"
+msgstr "Withdraw"
+
+#: src/components/Pool.tsx:112
+msgid "Withdrawing {0} {tokenSymbol}"
+msgstr "Withdrawing {0} {tokenSymbol}"
+
+#: src/components/AdminRewards.tsx:523
+msgid "Year"
+msgstr "Year"
+
+#: src/components/AdminRewards.tsx:581
+msgid "You don't have the required role to add rewards"
+msgstr "You don't have the required role to add rewards"
+
+#: src/components/NewStake.tsx:271
+msgid "You Earn"
+msgstr "You Earn"
+
+#: src/components/AdminRewards.tsx:320
+msgid "You have successfully approved the tokens"
+msgstr "You have successfully approved the tokens"
+
+#: src/components/ClaimRewards.tsx:72
+msgid "You have successfully claimed the rewards"
+msgstr "You have successfully claimed the rewards"
+
+#: src/components/EarlyWithdraw.tsx:109
+msgid "You have successfully early withdrawn {0} {tokenSymbol}"
+msgstr "You have successfully early withdrawn {0} {tokenSymbol}"
+
+#: src/components/Pool.tsx:103
+msgid "You have successfully withdrawn {0} {tokenSymbol}"
+msgstr "You have successfully withdrawn {0} {tokenSymbol}"
+
+#: src/components/WalletModal.tsx:247
+msgid "Your address"
+msgstr "Your address"
+
+#: src/components/EarlyWithdraw.tsx:186
+msgid "Your lock period has not finished yet. You can early withdraw your {tokenSymbol} tokens by paying a penalty."
+msgstr "Your lock period has not finished yet. You can early withdraw your {tokenSymbol} tokens by paying a penalty."
+
+#: src/components/Pool.tsx:229
+msgid "Your Stake"
+msgstr "Your Stake"
+
+#: src/components/WalletModal.tsx:188
+msgid "Your Wallet"
+msgstr "Your Wallet"
+
+#: src/components/WalletModal.tsx:345
+msgid "ZBU Balance"
+msgstr "ZBU Balance"
+
+#: src/app/[locale]/admin-rewards/page.tsx:10
+msgid "Main Page"
+msgstr "Main Page"
